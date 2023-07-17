@@ -10,6 +10,7 @@ Sorting algorithms inlcude :
   4. Merge Sort
   5. Quick Sort
   6. Heap Sort
+
 Note : Utilities folder contains functions that are used frequently to display an array , swap etc.
 Data Structures include :
   1. Stack
